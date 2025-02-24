@@ -1,1 +1,1 @@
-# diplomControlServer
+# Диплом сервер-управления
